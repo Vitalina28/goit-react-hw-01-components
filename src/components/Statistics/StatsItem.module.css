@@ -1,0 +1,17 @@
+.item {
+    width: 200px;
+    height: 80px;
+    background-color: aquamarine;
+    margin: 0;
+    border: solid 1px gray;
+}
+
+.label {
+    font-size: 20px;
+    margin-bottom: 10px;
+    margin-top: 8px;
+}
+
+.percentage {
+    font-size: 26px;
+}
